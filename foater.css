@@ -1,0 +1,49 @@
+.menu-1>ul{
+    display: flex;
+    gap: 4px;
+}
+ul>li{
+   
+    list-style-type: none;
+}
+
+
+.foater{
+    display: flex;
+    color: #fff;
+    margin: 30px;
+    padding: 30px 10px;
+    /* text-align: center; */
+
+}
+
+.menu-5{
+    border-top: 1px solid white;
+    text-align: center;
+    color: #fff;
+
+}
+
+.menu-6{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    text-align: center;
+    color: #fff;
+}
+
+.main-foater{
+    
+    background-color: rgba(60, 60, 60,5);
+    /* background-image: url(images/upcoming_background.a669f19ea2aee3c7e10f.png); */
+}
+
+.menu-7{
+    color: #fff;
+    text-align: center;
+
+}
+
+
+.pic{
+    filter: grayscale (100%);
+}

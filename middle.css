@@ -1,0 +1,58 @@
+.content{
+     
+    border: 1px solid black;
+ display: flex;
+ justify-content: space-evenly;
+ border: none;
+ margin-top: 25px;
+}
+
+
+.box{
+    width: 160px;
+   border-radius: 10px;
+    background-color: rgba(240,252,219,1);
+    cursor: default;
+    margin-top: 40px;
+    padding: 20px;
+    text-align: center;
+    /* transition: background-color 1.5s ease-out; */
+}
+
+.center{
+    text-align: center;
+}
+
+
+.content:hover{
+
+}
+
+.box:hover{
+ background-color: rgba(240,252,219,1);
+
+}
+
+.pic{
+ width: 360px;
+
+}
+.pic{
+ filter: brightness(40%);
+}
+
+.uper{
+ position: relative;
+ top: -80px;
+ color: #fff;
+}
+
+.uper>button{
+ width: 360px;
+ background-color: #8dc63f;
+}
+
+.row{
+    display: flex;
+}
+
